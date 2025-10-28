@@ -1,0 +1,23 @@
+{
+  "name": "1/1 Bearded #455",
+  "description": "Not just for the bearded - for everyone with grit. #WAGMI 💈🧔🏽‍♂️",
+  "external_url": "",
+  "image": "455.png",
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "Vampire"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "bearded-brotherhood-#455.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
